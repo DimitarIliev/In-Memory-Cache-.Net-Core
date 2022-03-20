@@ -30,6 +30,5 @@ namespace In_Memory_Cache.Services
 
             return cachedResult;
         }
-
     }
 }
