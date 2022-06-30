@@ -6,3 +6,5 @@ list of categories (we assume that this data changes infrequently).
 
 For further details on this topic, I recommend you read the official Microsoft Docs:
 https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-6.0
+
+Link to article: https://www.linkedin.com/pulse/simple-in-memory-cache-net-core-dimitar-iliev/
